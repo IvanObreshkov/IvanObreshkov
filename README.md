@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan Obreshkov student at American university in Bulgaria
+- 👋 Hi, I’m Ivan Obreshkov, student at American university in Bulgaria
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
